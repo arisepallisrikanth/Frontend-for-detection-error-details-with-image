@@ -1,0 +1,7 @@
+Requirements:
+1)nodeJS 
+procedure:
+In terminal,type
+-->npm install
+-->npm start
+
